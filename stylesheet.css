@@ -1,0 +1,44 @@
+.first{
+    display: flex;
+    justify-content: center ;
+    text-align: justify;
+    align-items: center;
+}
+.second{
+    display:flex;
+    justify-content: center ;
+    text-align: justify;
+    align-items: center;
+}
+.last{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.one{
+    width: 1000px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.two{
+    width: 1000px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.three{
+    width: 1000px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.about{
+    padding-left: 20px;
+    width:650px;
+}
+.Chakra{
+    padding-right: 20px;
+    width: 650px;
+}
+body{
+    background-color:lightsteelblue;
+}
